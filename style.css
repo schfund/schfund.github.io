@@ -88,7 +88,7 @@ footer {
 }
 
 @media (max-width: 948px) {
-	#alert {
+	.alert {
 		display: none;
 	}
 
