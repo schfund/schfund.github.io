@@ -33,7 +33,11 @@ a {
 }
 
 .alert:hover {
-	background: #ccc;
+	background: #000;
+}
+
+.alert:hover a {
+	color: #fff;
 }
 
 .metamask-img {
